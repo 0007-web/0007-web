@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 ## 📫 How to Reach Me
 
 - **Email:** anuragsingh93578@gmail.com
-- **LinkedIn:** [0007-web](https://www.linkedin.com/in/0007-web/)
+- **LinkedIn:** [0007-web](https://www.linkedin.com/in/anurag-singh-3a5b3626b/)
 - **Twitter:** [@0007_web](https://twitter.com/0007_web)
 
 Let's connect and collaborate on exciting projects!
